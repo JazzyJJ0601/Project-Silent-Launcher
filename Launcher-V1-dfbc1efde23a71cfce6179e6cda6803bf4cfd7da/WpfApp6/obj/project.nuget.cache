@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jgx328DbRu9FSOP1u5aRoPM+DbRTU3aZ3GfNI5bJ7WbFqJK0MyuTefFlNZpghPoc2dOq9qGFJftJIjv/F7gD6g==",
+  "dgSpecHash": "Qb3ZPV5Z/NW4PiJf6VGSYhJFt40me873ZNz5ndbVho4coO6XQMK44pB7SPDFWcbBDCzEglmDHesEj3p7kyHEUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaspe\\Downloads\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\Project Silent.csproj",
+  "projectFilePath": "E:\\Project Silent github\\Project-Silent-Launcher\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\Project Silent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaspe\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",
     "C:\\Users\\jaspe\\.nuget\\packages\\modernwpfui\\0.9.6\\modernwpfui.0.9.6.nupkg.sha512",

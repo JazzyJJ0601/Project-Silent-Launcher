@@ -1017,11 +1017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaspe\\Downloads\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\Project Silent.csproj",
+      "projectUniqueName": "E:\\Project Silent github\\Project-Silent-Launcher\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\Project Silent.csproj",
       "projectName": "Project Silent",
-      "projectPath": "C:\\Users\\jaspe\\Downloads\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\Project Silent.csproj",
+      "projectPath": "E:\\Project Silent github\\Project-Silent-Launcher\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\Project Silent.csproj",
       "packagesPath": "C:\\Users\\jaspe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaspe\\Downloads\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\obj\\",
+      "outputPath": "E:\\Project Silent github\\Project-Silent-Launcher\\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\\WpfApp6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\rootvisual\\NuGetPackages"
