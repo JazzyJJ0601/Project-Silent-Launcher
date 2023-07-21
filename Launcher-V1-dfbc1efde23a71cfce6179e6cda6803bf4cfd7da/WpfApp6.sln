@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project Silent", "WpfApp6\Project Silent.csproj", "{355A0DBF-B506-4AFC-9C0E-2884A2169337}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Project Silent Installer", "Project Silent Installer\Project Silent Installer.vdproj", "{A17A47C0-9617-4912-9F9E-5E962D98B7C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355A0DBF-B506-4AFC-9C0E-2884A2169337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355A0DBF-B506-4AFC-9C0E-2884A2169337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355A0DBF-B506-4AFC-9C0E-2884A2169337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355A0DBF-B506-4AFC-9C0E-2884A2169337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17A47C0-9617-4912-9F9E-5E962D98B7C1}.Debug|Any CPU.ActiveCfg = Debug
+		{A17A47C0-9617-4912-9F9E-5E962D98B7C1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A9430D-AC9A-43D0-92CB-D4263C2DCE35}
+	EndGlobalSection
+EndGlobal

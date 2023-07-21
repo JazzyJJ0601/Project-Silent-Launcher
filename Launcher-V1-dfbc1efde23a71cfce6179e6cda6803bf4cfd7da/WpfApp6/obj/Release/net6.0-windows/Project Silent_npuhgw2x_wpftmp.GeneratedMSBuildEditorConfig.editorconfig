@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Project_Silent_npuhgw2x_wpftmp
+build_property.ProjectDir = C:\Users\jaspe\Downloads\Launcher-V1-dfbc1efde23a71cfce6179e6cda6803bf4cfd7da\WpfApp6\
